@@ -13,4 +13,4 @@ function mergeSortedArrays () {
    mergedArray.sort();
    console.log(mergedArray);
 }
-mergeSortedArrays()git 
+mergeSortedArrays()
